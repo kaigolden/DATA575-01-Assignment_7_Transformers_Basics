@@ -1,1 +1,1 @@
-# DATA575-01-Assignment_7_Transformers_Basics
+The attached `.ipynb` notebook reproduces code from part 1 and part 2 of [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/). (See the website for in-depth details on code implementation.) </br></br> **Note:** Given they're not required to complete both parts of the code, only the `torchtext` imports are commented out. Headers and sub-headers are added for readability and navigation. </br>
